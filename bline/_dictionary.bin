@@ -1,0 +1,108 @@
+
+Reject-Contact: 
+Error-Info: 
+Timestamp: 
+Call-Info: 
+Reply-To: 
+Warning: 
+Subject: ;handling=image;purpose=;cause=;text=card300 Multiple Choicesmimessage/sipfrag407 Proxy Authentication Requiredigest-integrity484 Address Incompletelephone-events494 Security Agreement Requiredeactivated481 Call/Transaction Does Not Existale=500 Server Internal Errorobust-sorting=416 Unsupported URI Schemergency415 Unsupported Media Typending488 Not Acceptable Herejected423 Interval Too Briefrom-tagQ.8505 Version Not Supported403 Forbiddenon-urgent429 Provide Referror Identity420 Bad Extensionoresource
+a=key-mgmt:mikeyOPTIONS Language: 504 Server Time-outo-tag
+Authentication-Info: Dec 380 Alternative Service503 Service Unavailable421 Extension Required405 Method Not Allowed487 Request Terminatedauth-interleaving=
+m=application Aug 513 Message Too Large687 Dialog Terminated302 Moved Temporarily301 Moved Permanentlymultipart/signed
+Retry-After: GMThu, 402 Payment Required
+a=orient:landscape400 Bad Requestrue491 Request Pending501 Not Implemented406 Not Acceptable606 Not Acceptable
+a=type:broadcastone493 Undecipherable
+MIME-Version: May 482 Loop Detected
+Organization: Jun mode-change-neighbor=criticalertcp-fb489 Bad Eventls
+Unsupported: Jan 502 Bad Gatewaymode-change-period=
+a=orient:seascape
+a=type:moderated404 Not Found305 Use Proxy
+a=type:recvonly
+a=type:meeting
+k=prompt:
+Referred-By: 
+In-Reply-To: TRUEncoding: 182 QueuedAuthenticate: 
+User-Agent: 
+a=framerate:
+Alert-Info: CANCEL 
+a=maxptime:;retry-after=uachannels=410 Gone
+Refer-To: 
+Priority: 
+m=control 
+a=quality:
+a=sdplang:
+a=charset:
+Replaces: REFER ipsec-ike;transport=
+a=keywds:
+k=base64:;refresher=
+a=ptime:
+k=clear:;received=;duration=
+Accept: 
+a=group:FALSE: INFO 
+Accept-
+a=lang:
+m=data mode-set=
+a=tool:TLSun, 
+Date: 
+a=cat:
+k=uri:
+Proxy-;reason=;method=
+a=mid:;maddr=opaque=
+Min-;alg=Mon, Tue, Wed, Fri, Sat, ;ttl=auts=
+r=
+z=
+e=;id=
+i=crc=
+u=;q=uas414 Request-URI Too Longiveuprivacyudprefer600 Busy Everywherequired480 Temporarily Unavailable
+a=type:H.33202 Accepted
+Session-Expires: 
+Subscription-State: Nov 
+Service-Route: Sep 
+Allow-Events: Feb 
+a=inactiveRTP/SAVP RTP/AVPF Anonymousips:
+a=type:testel:MESSAGE 
+a=recvonly
+a=sendonly
+c=IN IP4 
+Reason: 
+Allow: 
+Event: 
+Path: ;user=
+b=AS CT 
+WWW-Authenticate: Digest 
+a=sendrecvideoctet-align=application/sdpatheaderspauth=
+a=orient:portraitimeouttr-inticonc=483 Too Many Hopslinfoptionalgorithm=604 Does Not Exist Anywheresponse=
+
+Request-Disposition: MD580 Precondition Failureplaces422 Session Interval Too Smallocal181 Call Is Being Forwardedomain=failurenderealm=SUBSCRIBE preconditionormalipsec-mandatory413 Request Entity Too Large2e183 Session Progressctp486 Busy HeremoterminatedAKAv1-MD5-sessionone
+Authorization: 603 Declinextnonce=485 Ambiguousername=audio
+Content-Type: Mar 
+Record-Route: Jul 401 Unauthorized
+Require: 
+t=0 0.0.0.0
+Server: REGISTER 
+c=IN IP6 180 Ringing100 Tryingv=0
+o=UPDATE NOTIFY 
+Supported: unknownAMRTP/AVP 
+Privacy: 
+Security-
+Expires: 
+a=rtpmap:
+m=video 
+m=audio 
+s= false
+a=conf:;expires=
+Route: 
+a=fmtp:
+a=curr:Client: Verify: 
+a=des:
+RAck: 
+RSeq: BYE cnonce=100reluri=qop=TCPUDPqosxml;lr
+Via: SIP/2.0/TCP 408 Request Timeoutimerpsip:
+Content-Length: Oct 
+Via: SIP/2.0/UDP ;comp=sigcomprobationack;branch=z9hG4bK
+Max-Forwards: Apr SCTPRACK INVITE 
+Call-ID: 
+Contact: 200 OK
+From: 
+CSeq: 
+To: ;tag=

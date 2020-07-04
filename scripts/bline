@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+import sys
+
+import bline.zstream
+
+
+def main(is_dec):
+    data = sys.stdin.buffer.read()
+    if is_dec:
+        sys.stdout.buffer.write(bline.zstream.uncompress(data))
+    else:
+        sys.stdin.buffer.write(bline.zstream.uncompress(data))
+
+
+if __name__ == '__main__':
+    is_dec = len(sys.argv) == 1 or sys.argv[1] != '-c'
+    if len(sys.argv) > 2 or not is_dec:
+        print('Usage: {} [-d]'.format(sys.argv[0]))
+        exit()
+    
+    main(is_dec)
+
